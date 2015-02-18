@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.Framework.Runtime;
-using StrongNaming;
+using Microsoft.CommonModules.StrongNaming;
 
 namespace ClassLibrary1.compiler.preprocess
 {

@@ -11,7 +11,7 @@ using Microsoft.Framework.Runtime.Roslyn;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace StrongNaming
+namespace Microsoft.CommonModules.StrongNaming
 {
     public class StrongNamingModule : ICompileModule
     {

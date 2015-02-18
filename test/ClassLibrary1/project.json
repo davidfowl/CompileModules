@@ -7,7 +7,7 @@
     "frameworks": {
         "aspnet50": {
             "dependencies": {
-                "StrongNaming": { "version": "1.0.0-*", "type": "build" }
+                "Microsoft.CommonModules.StrongNaming": { "version": "1.0.0-*", "type": "build" }
             }
         },
         "aspnetcore50": {

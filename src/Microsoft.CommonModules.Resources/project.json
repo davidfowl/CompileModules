@@ -1,0 +1,22 @@
+﻿{
+    "version": "1.0.0-*",
+    "dependencies": {
+        "Microsoft.Framework.FileSystemGlobbing": "1.0.0-*",
+        "Microsoft.Framework.Runtime.Roslyn.Interfaces": "1.0.0-*",
+        "Newtonsoft.Json": "6.0.6"
+    },
+
+    "frameworks": {
+        "aspnet50": {
+            "frameworkAssemblies": {
+                "System.Runtime": "",
+                "System.Threading.Tasks": "",
+                "System.Text.Encoding": "",
+                "System.IO": "",
+                "System.Linq": "",
+                "System.Xml.Linq": "",
+                "System.Xml": ""
+            }
+        }
+    }
+}
